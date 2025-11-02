@@ -1,6 +1,6 @@
 # 🛠️ Custom Model Data 1.21.8 🛠️
 
-After specifying the item in your /give command, the part [minecraft:custom_model_data={floats:[1f]}] tells Minecraft which custom model to use from your resource pack.
+After specifying the item in your /give command, the part `[minecraft:custom_model_data={floats:[1f]}]` tells Minecraft which custom model to use from your resource pack.
 
 `minecraft:custom_model_data` – signals the game to check for model overrides.
 
