@@ -9,7 +9,7 @@ The Packs Index is a comprehensive wiki covering all aspects of Minecraft resour
 * [MCMeta Files ⏳](https://github.com/Nycto9648/PacksIndex/wiki/MCMeta-Files)
 * [Block States ❌](https://github.com/Nycto9648/PacksIndex/wiki/Block-States)
 * [Custom Entity Models (CEM) ❌](https://github.com/Nycto9648/PacksIndex/wiki/Custom-Entity-Models)
-* [Custom Model Data ⏳](https://github.com/Nycto9648/PacksIndex/wiki/Custom-Model-Data)
+* [Custom Model Data ⏳](custom-model-data.md)
 * [Entity Model Features (EMF) ❌](https://github.com/Nycto9648/PacksIndex/wiki/Entity-Model-Features)
 * [Entity Texture Features (ETF) ❌](https://github.com/Nycto9648/PacksIndex/wiki/Entity-Texture-Features)
 * [Fonts & Unicodes ❌](https://github.com/Nycto9648/PacksIndex/wiki/Fonts-&-Unicodes)
