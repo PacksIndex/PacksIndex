@@ -4,3 +4,4 @@
 * [Custom Model Data](custom-model-data.md)
 * [1.21.4-1.21.10](1.21.4-1.21.10.md)
 * [Mcmeta Files](mcmeta-files.md)
+* [Version Overlays](version-overlays.md)

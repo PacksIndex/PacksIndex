@@ -1,3 +1,7 @@
+---
+icon: hourglass-clock
+---
+
 # Mcmeta Files
 
 | Minecraft Version(s) | pack\_format |
