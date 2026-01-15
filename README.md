@@ -19,9 +19,7 @@ The Packs Index is built as an organized reference, not a random collection of t
 
 If it’s about resource packs, it belongs here. 
 
-
-### Start here
-#### [Get Started with Resource Packs](https://github.com/PacksIndex/PacksIndex/wiki)
+## [Get Started with Resource Packs](https://github.com/PacksIndex/PacksIndex/wiki)
 
 
 ### Credits:
