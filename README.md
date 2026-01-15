@@ -1,26 +1,26 @@
 # Welcome to the Packs Index!
 
+### What's this all about? 
 
-### Description:
-The Packs Index is a comprehensive wiki covering all aspects of Minecraft resource packs. It provides detailed explanations, examples, and guidance for both beginners and experienced pack creators.
+The Packs Index is a comprehensive wiki dedicated entirely to Minecraft resource packs—from first-time creation to advanced, production-ready techniques.
+Whether you’re making your very first pack or maintaining a large, server-scale resource pack, this index exists to explain how resource packs actually work, not just what files to copy.
 
-### Page Links:
-+ [🟡 MCMeta Files](https://github.com/Nycto9648/PacksIndex/wiki/MCMeta-Files)
-+ [🔴 Block States](https://github.com/Nycto9648/PacksIndex/wiki/Block-States)
-+ [🔴 Custom Entity Models (CEM)](https://github.com/Nycto9648/PacksIndex/wiki/Custom-Entity-Models)
-+ [🟡 Custom Model Data](https://github.com/Nycto9648/PacksIndex/wiki/Custom-Model-Data)
-+ [🔴 Entity Model Features (EMF)](https://github.com/Nycto9648/PacksIndex/wiki/Entity-Model-Features)
-+ [🔴 Entity Texture Features (ETF)](https://github.com/Nycto9648/PacksIndex/wiki/Entity-Texture-Features)
-+ [🔴 Fonts & Unicodes](https://github.com/Nycto9648/PacksIndex/wiki/Fonts-&-Unicodes)
-+ [🔴 GUIs](https://github.com/Nycto9648/PacksIndex/wiki/GUIs)
-+ [🔴 Language](https://github.com/Nycto9648/PacksIndex/wiki/Language)
-+ [🔴 Parents](https://github.com/Nycto9648/PacksIndex/wiki/Parents)
-+ [🔴 Particles](https://github.com/Nycto9648/PacksIndex/wiki/Particles)
-+ [🔴 Shaders, Optifine, and MCPatcher](https://github.com/Nycto9648/PacksIndex/wiki/Shaders,-Optifine,-and-MCPatcher)
-+ [🔴 Sounds](https://github.com/Nycto9648/PacksIndex/wiki/Sounds)
-+ [🔴 Texture Overlays](https://github.com/Nycto9648/PacksIndex/wiki/Overlays)
-+ [🔴 Version Overlays](https://github.com/Nycto9648/PacksIndex/wiki/Version-Overlays)
-+ [🔴 Troubleshooting & FAQ](https://github.com/Nycto9648/PacksIndex/wiki/Troubleshooting-&-FAQ)
+Here, you’ll learn how to:
+
++ Create and structure a resource pack correctly
++ Design and import custom models and textures
++ Work with Custom Model Data and item model overrides
++ Build panoramas, UI assets, and visual elements
++ Understand model predicates, limitations, and quirks
++ Follow best practices for compatibility, organization, and performance
++ Prepare resource packs for servers and long-term updates
+
+The Packs Index is built as an organized reference, not a random collection of tutorials. Each topic focuses on clarity, correctness, and real-world usage—so you understand why something works, not just that it works.
+
+If it’s about resource packs, it belongs here. 
+
+### [Home Page](https://github.com/PacksIndex/PacksIndex/wiki)
+
 ### Credits:
 Nycto - [Buy me a coffee!](https://buymeacoffee.com/nyctottv)
 
