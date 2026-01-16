@@ -23,8 +23,8 @@ If it’s about resource packs, it belongs here.
 
 
 ### Credits:
-Nycto – Lead Author – [Buy me a coffee!](https://buymeacoffee.com/nyctottv) <br>
-Park - Peer Reviewer
+[Nycto](https://github.com/Nycto9648) – Lead Author – [Buy me a coffee!](https://buymeacoffee.com/nyctottv) <br>
+[Park](https://github.com/alexander-prk) - Peer Reviewer
 
 
 
