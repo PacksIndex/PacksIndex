@@ -19,6 +19,9 @@ The Packs Index is built as an organized reference, not a random collection of t
 
 If it’s about resource packs, it belongs here. 
 
+### Disclaimer 
+The Packs Index is currently a **Java Edition** exclusive wiki; there are plans in the future to add Bedrock information but that is delayed until Java is fully done. 
+
 ## [Get Started with Resource Packs](https://github.com/PacksIndex/PacksIndex/wiki)
 
 
